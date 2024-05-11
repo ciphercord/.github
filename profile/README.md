@@ -5,9 +5,6 @@
 No conversation warrants deprivation of privacy.
 
 </div>
-
----
-
 <br>
 
 **CipherCord** is a chat application completely reliant on Discord's services. CipherCord turns Discord's hot mess of an insecure, unencrypted platform, and makes it more private.
@@ -28,7 +25,7 @@ All the source code is listed under this organization and never connects to any 
 
 Every repo under CipherCord will always be under the MIT license. We believe all code should be free to use and learn from
 
----
+<br>
 
 <div align='center'>
 
