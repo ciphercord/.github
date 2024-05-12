@@ -7,23 +7,23 @@ No conversation warrants deprivation of privacy.
 </div>
 <br>
 
-**CipherCord** is a chat application completely reliant on Discord's services. CipherCord turns Discord's hot mess of an insecure, unencrypted platform, and makes it more private.
+**CipherCord** is a chat program that is dependent on Discord's infrastructure. Discord's insecure, unencrypted platform is made more private, encrypted and safe with CipherCord.
 
-## How does it work?
+## How Does It Work?
 
-When you chat, all your data is packaged up into a little encrypted bundle that is then sent over to a Discord bot with a fully public token.
+When you have sent a message, all of the data included in that message is moved into a tiny, encrypted package and sent over to a fully transparent Discord bot.
 
-## Mission
+## Our Mission
 
-CipherCord aims to be an ironic platform as it secures the insecure nature of Discord.
+CipherCord aims to be an ironic platform, as it secures the insecure nature of Discord.
 
-But more importantly, it aims to be a completely transparent, secure, encrypted platform for your most private conversations to live.
+More significantly, however, is that it strives to be an entirely transparent, safe, and encrypted platform for your most private conversations.
 
-All the source code is listed under this organization and never connects to any third-party websites excluding Discord of course.
+CipherCord makes it very difficult for you be tracked. Discord collects very large amounts of telemetry; CipherCord tracks no data sent among it's users.
 
 ## License
 
-Every repo under CipherCord will always be under the MIT license. We believe all code should be free to use and learn from
+Every repository under CipherCord will always stay under the MIT license. We believe all code should be free to use and learn from.
 
 <br>
 
