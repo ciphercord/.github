@@ -7,7 +7,7 @@ No conversation warrants deprivation of privacy.
 </div>
 <br>
 
-**CipherCord** is a chat program that is dependent on Discord's infrastructure. Discord's insecure, unencrypted platform is made more private, encrypted and safe with CipherCord.
+**CipherCord** is a chat program which is dependent on Discord's infrastructure. Discord's insecure, unencrypted platform is made more private, encrypted and safe with CipherCord.
 
 ## How Does It Work?
 
