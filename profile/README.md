@@ -1,6 +1,3 @@
->[!WARNING]
-> CipherCord is unfortunately put on a temporary hold until I receive confirmation from the Discord support team about recent concerns about having a public bot token.
-
 <div align='center'>
 
 # CipherCord
